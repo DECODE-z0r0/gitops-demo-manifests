@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: ghcr.io/decode-z0r0/gitops-demo-app:0602b9b
+          image: ghcr.io/decode-z0r0/gitops-demo-app:960d9e3
           ports:
             - containerPort: 5000
